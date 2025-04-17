@@ -131,10 +131,6 @@ weighted avg       1.00      1.00      1.00         4
 - Add visualization for threat analysis (e.g., matplotlib plots of feature importance).
 - Implement real-time prediction APIs for integration with security operations centers (SOCs).
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
 For questions or contributions, please contact the project maintainer or open an issue on the repository.
